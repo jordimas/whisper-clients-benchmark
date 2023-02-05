@@ -42,6 +42,7 @@ def score(name, reference_file, prediction_file):
 def main():
     print("Benchmark whisper.cpp inference")
     score("OpenAI whisper", "15GdH9-curt.txt", "15GdH9-curt/15GdH9-curt.mp3.txt")
+    score("Whisper.cpp", "15GdH9-curt.txt", "15GdH9-curt.wav.txt")
     
 if __name__ == "__main__":
     main()
