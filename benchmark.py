@@ -22,9 +22,8 @@ import os
 import datetime
 from evaluate import load
 import sys
-import json
 
-def score(reference_file, prediction_file):
+def score(name, reference_file, prediction_file):
 
     with open(reference_file) as f:
         reference = f.read()
@@ -38,11 +37,11 @@ def score(reference_file, prediction_file):
     _wer = load("wer")
     wer_score = _wer.compute(predictions=[prediction], references=[reference])
     wer_score = wer_score * 100
-    print("{name} - {prediction_file}. WER: prediction_file")
+    print(f"{name} - {prediction_file}. WER: {wer_score}")
     
 def main():
     print("Benchmark whisper.cpp inference")
-    score("OpenAI whisper", "15GdH9-curt.txt", "15GdH9-curt.txt/15GdH9-curt.mp3.txt"
+    score("OpenAI whisper", "15GdH9-curt.txt", "15GdH9-curt/15GdH9-curt.mp3.txt")
     
 if __name__ == "__main__":
     main()
