@@ -43,6 +43,7 @@ def main():
     print("Benchmark whisper.cpp inference")
     score("OpenAI whisper", "15GdH9-curt.txt", "15GdH9-curt/15GdH9-curt.mp3.txt")
     score("Whisper.cpp", "15GdH9-curt.txt", "15GdH9-curt.wav.txt")
+    score("HF", "15GdH9-curt.txt", "15GdH9-curt-openai_whisper-medium.txt")
     
 if __name__ == "__main__":
     main()
