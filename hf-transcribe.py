@@ -17,8 +17,10 @@ def transcribe(filename, model_id, language):
     pipe.model.config.forced_decoder_ids = pipe.tokenizer.get_decoder_prompt_ids(language=language, task="transcribe")
     text = pipe(filename)["text"]
 
-    model_name = f"{model_id}".replace("/", "_")
-    text_file = filename.replace(".mp3", "") + f"-{model_name}.txt"
+#    model_name = f"{model_id}".replace("/", "_")
+#    text_file = filename.replace(".mp3", "") + f"-{model_name}.txt"
+#    model_name = f"{model_id}".replace("/", "_")
+    text_file = filename.replace(".mp3", "") + f".txt"
     with open(text_file, 'w') as f:
         f.write(text)
     print(f"Wrote file '{text_file}'")
