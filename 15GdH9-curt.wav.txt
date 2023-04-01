@@ -7,67 +7,84 @@
  que han anat omplint aquesta primera temporada
  del 15 glaçons hidrogemi.
  #
- És el podcast de llengua i tecnologia de soft català.
+ És el podcast de llengua i tecnologia de Soft Català.
  #
  El vam començar un any estrany,
  l'acabem un any que encara continua sent estrany,
- l'acabem aquesta temporada.
+ l'acabem, aquesta temporada.
  Podríem dir que és l'últim episodi,
  però ens reservarem aquest adjectiu d'últim,
- perquè a l'estiu a Sofcatala passen coses.
+ perquè a l'estiu a Soft Català passen coses.
  Passen coses i en parlarem a la barra.
- Avui a la barra hi ha molta gent, per cert,
- però abans d'arribar a la barra farem l'aparitiu d'actualitat,
- com sempre, amb l'Artur, que hem recuperat aquest episodi nou.
- Entrarem al rebost digital amb en Xavi Vars, que ens presenta algun programa relacionat amb el curreu.
- Pararem la taula amb una de les millors veus de soft català.
- I l'etapa de refranys que ve assenyalada pel Centural, que ens porta aquest final de juny.
- Encara en aquest estiu, que esperem que sigui gaudible per tothom, només ens queda recordar-vos
- on ens podeu sentir, en les principals plataformes de podcasts, Spotify, Google Podcasts, iTunes,
- etc.
- I també al nostre web, softcatalà.org.
  #
- I res més, comencem amb aquest episodi nou
+ Avui a la barra hi ha molta gent, per cert,
+ però abans d'arribar a la barra farem l'aparició d'actualitat,
+ com sempre, amb l'Artur, que hem recuperat aquest episodi nou.
+ #
+ Entrarem al rebost digital amb en Xavi Vars,
+ que ens presenta algun programa relacionat amb el correu.
+ #
+ Pararem la taula amb una de les millors veus de Soft Català.
+ #
+ I l'etapa de refranys que ve assenyalada pel Sant Ural,
+ que ens porta aquest final de juny.
+ #
+ Encara en aquest estiu, que esperem que sigui gaudible per tothom,
+ només ens queda recordar-vos on ens podeu sentir,
+ en les principals plataformes de podcasts,
+ Spotify, Google Podcasts, iTunes, etcètera,
+ i també al nostre web, softcatalà.org.
+ #
+ I res més, comencem amb aquest episodi nou,
  que, per cert, hem anomenat "Fluor Fluctuant".
  #
  Som-hi!
  #
- L'aperitiu d'actualitat.
- [MÚSICA]
+ L'aparició d'actualitat.
+ #
  Doncs si recuperem l'Artur,
  aquesta vegada el tenim amb nosaltres per repassar una mica l'actualitat.
  Hola, Artur, com estàs?
  Hola, Lleis, com estem?
- [MÚSICA]
- Doncs a veure, què ens portes avui per picar,
- per de pica a pica una mica?
+ #
+ Doncs a veure, què ens portes avui de pica a pica, una mica?
  Què tenim?
- Doncs un pic porta només titulars,
- perquè la veritat és que repassant l'actualitat del mes de juny ha sigut un poc,
- per el molt entendre, poc escas.
- Poc escas. Es nota que s'acosten les vacances i el ritme frena de notícies.
- Això passa. El juliol a l'agost passa més però al juny ja ho hem començat a notar.
+ Doncs avui porto només titulars,
+ perquè la veritat és que repassant l'actualitat del mes de juny
+ ha sigut un poc, per el meu entendre, poc escas.
+ Poc escas.
+ Es nota que s'acosten les vacances i el ritme frena de notícies.
+ Això passa.
+ El juliol a l'agost passa més, però al juny ja ho hem començat a notar.
  Si més no pel que fa a tecnologia i llengua.
  A veure, va, explica'ns, explica'ns.
- Alguna cosa tanyar, sí, alguna cosa tanyar.
+ Alguna coseta nya, sí, alguna coseta.
  Jo, per exemple, vaig llegir l'altre dia que la Linux Foundation
  ha creat una espècie d'organització en tecnològiques grans
- per alluitar per fer estàndards de la tecnologia de la veu.
+ per alluitar per fer estàndards de la tecnologia de la viu.
  Perquè ara mateix és una tecnologia emergent,
- com ja sabeu en el nostre programa ens encanta parlar d'això.
+ com ja sabeu, al nostre programa ens encanta parlar d'això.
  Sí, sí.
  I és una tecnologia que encara no té definit un estàndard
  que totes les empreses puguin seguir.
- Cadascú fa el seu i cadascú té les seves històries
- i el que estan intentant és posar-ho tot en comú
+ Cadascú fa el seu i cadascú té les seves històries.
+ I el que estan intentant és posar-ho tot en comú
  per a la tecnologia que es desenvolupa a partir de quan pugui ser,
  de si un futur proper sigui més unitari.
- i que les empreses puguin accedir a estàndards del món tecnològic de la veu
- i no ser que tot un folló d'històries.
- Això per la majoria de mortals, això dels estàndards, és allò que cada empresa no creï el seu sistema i els seus formats
- i que després no ens entenguin i que sigui un caos, sinó que hi hagi una mica un estàndard.
- A més, entenc que si hi hagués la fundació Linux és que seran estàndards oberts
- oberts i que per tant es podran construir tecnologies de veu a sobre d'uns estàndards que tothom
- podrà compartir. Exacte. Per exemple, posant un exemple que al millor estiguin en una barbaritat,
- però si el Common Boys crea un model de llengua en un format determinat, que és format,
- el puguin obrir totes les empreses que vulguin o que el puguin reprofitar sense tindre històries de...
+ I que les empreses puguin accedir a estàndards
+ del món tecnològic de la viu.
+ I no ser que tot un folló d'històries.
+ Això per la majoria de mortals, això dels estàndards,
+ és allò que cada empresa no creï el seu sistema i els seus formats,
+ i que després no ens entenguin i que sigui un caos,
+ sinó que hi hagi una mica un estàndard.
+ A més, entenc, si hi ha darrere la Fundació Linux,
+ és que seran estàndards oberts
+ i que, per tant, es podran construir tecnologies de veu
+ a sobre d'uns estàndards que tothom podrà compartir.
+ Exacte.
+ Per exemple, posant un exemple que al millor estiguin una barbaritat,
+ però si el Common Boys crea un model de llengua
+ en un format determinat,
+ que hi hagi format, el puguin obrir totes les empreses que vulguin
+ o que el puguin reaprofitar sense tindre històries de...

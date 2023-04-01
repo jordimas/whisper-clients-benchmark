@@ -20,7 +20,7 @@ def transcribe(filename, model_id, language):
 #    model_name = f"{model_id}".replace("/", "_")
 #    text_file = filename.replace(".mp3", "") + f"-{model_name}.txt"
 #    model_name = f"{model_id}".replace("/", "_")
-    text_file = filename + ".txt"
+    text_file = filename + "-hf.txt"
     with open(text_file, 'w') as f:
         f.write(text)
     print(f"Wrote file '{text_file}'")
